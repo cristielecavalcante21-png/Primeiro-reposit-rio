@@ -1,3 +1,4 @@
+# Aprendendo o Basico de git e github com python!
 
 nome = input('Digite seu nome:')
 idade = int(input('Digite sua idade:'))
